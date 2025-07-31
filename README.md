@@ -1,7 +1,13 @@
-<div>
-   <a href="https://github.com/Ignacio-Joaquin-Garcia">Español</a>
-   <a href="https://misitio.com/en">English</a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Ignacio-Joaquin-Garcia">Español</a>
+    </td>
+    <td>
+      <a href="https://github.com/Ignacio-Joaquin-Garcia/ignacio-joaquin-garcia/blob/main/README_ENGLISH.md">English</a>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Hola, soy Ignacio Garcia👨🏻‍💻</h1>
  <p align="center"> 
@@ -34,7 +40,7 @@
 
 Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en tecnologías web modernas.
 
-- 👨‍💻 🎓 Actualmente curso la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
+- 👨‍💻 🎓 Actualmente estoy estudiando la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
 - 🧠 He complementado mi formación académica con diversos cursos de **desarrollo web y diseño** en instituciones como **Coderhouse** y **TalentoTech**, donde desarrollé múltiples proyectos prácticos. Estos cursos incluyeron contenidos de **Diseño UX/UI**, **HTML**, **CSS**, **SCSS**, **JavaScript** y **React**.
 - 🗣️ Mi idioma nativo es el **español**. Poseo certificaciones de inglés **B1 y B2 otorgadas por AACI**, y actualmente me estoy preparando para rendir el examen **Cambridge First (FCE)**.
 
