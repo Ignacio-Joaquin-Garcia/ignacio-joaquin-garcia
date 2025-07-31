@@ -1,8 +1,23 @@
 <h1 align="center">Hola, soy Ignacio Garcia👨🏻‍💻</h1>
 
-<div>
-  
+<div align="center">
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/3Q4HADN.gif" width="300px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=pie" />
+    </td>
+  </tr>
+</table>
+
+
 </div>
+
+
 ---
 
 ## 🙋 Sobre mí
