@@ -1,7 +1,13 @@
-<div>
-   <a href="https://github.com/Ignacio-Joaquin-Garcia">Español</a>
-   <a href="https://github.com/Ignacio-Joaquin-Garcia/ignacio-joaquin-garcia/blob/main/README_ENGLISH.md">English</a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Ignacio-Joaquin-Garcia">Español</a>
+    </td>
+    <td>
+      <a href="https://github.com/Ignacio-Joaquin-Garcia/ignacio-joaquin-garcia/blob/main/README_ENGLISH.md">English</a>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Hi, I am Ignacio Garcia👨🏻‍💻</h1>
  <p align="center"> 
