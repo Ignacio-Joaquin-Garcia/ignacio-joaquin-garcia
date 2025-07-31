@@ -1,5 +1,15 @@
-<h1 align="center">Hola, soy Ignacio Garcia👨🏻‍💻</h1>
+<div>
+   <a href="https://github.com/Ignacio-Joaquin-Garcia">Español</a>
+   <a href="https://misitio.com/en">English</a>
+</div>
 
+<h1 align="center">Hola, soy Ignacio Garcia👨🏻‍💻</h1>
+ <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Ignacio-Joaquin-Garcia&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGarcia" /> 
+    <img src="https://img.shields.io/badge/Age-19-blue" alt="Age">
+    <img src="https://img.shields.io/badge/Focus-Front End%20-brightgreen" />
+    <img src="https://img.shields.io/badge/Lives-Argentina-success" />
+</p>
 <div align="center">
 
 
@@ -24,8 +34,9 @@
 
 Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en tecnologías web modernas.
 
-- 👨‍💻 🎓 Actualmente estoy cursando la Licenciatura en Sistemas en la Universidad Nacional de Lanús (UNLa).
-- 🧠 Complementé mi formación académica con diversos cursos de desarrollo web y diseño en instituciones como Coderhouse y TalentoTech, donde trabajé en múltiples proyectos prácticos. Estos cursos abarcaron temas como Diseño UX/UI, HTML, CSS, SCSS, JavaScript y React.
+- 👨‍💻 🎓 Actualmente curso la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
+- 🧠 He complementado mi formación académica con diversos cursos de **desarrollo web y diseño** en instituciones como **Coderhouse** y **TalentoTech**, donde desarrollé múltiples proyectos prácticos. Estos cursos incluyeron contenidos de **Diseño UX/UI**, **HTML**, **CSS**, **SCSS**, **JavaScript** y **React**.
+- 🗣️ Mi idioma nativo es el **español**. Poseo certificaciones de inglés **B1 y B2 otorgadas por AACI**, y actualmente me estoy preparando para rendir el examen **Cambridge First (FCE)**.
 
 ---
 
@@ -67,7 +78,7 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
 
 ## 📫 ¿Dónde encontrarme?
 
-- 💼 [LinkedIn](www.linkedin.com/in/ignaciogarcia-webdeveloper)
+- 💼 [Linkedin](www.linkedin.com/in/ignaciogarcia-webdeveloper)
 - ✉️ garciaignaciouni@gmail.com
 
 ---
