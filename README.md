@@ -11,10 +11,10 @@
 
 <h1 align="center">Hola, soy Ignacio Garcia👨🏻‍💻</h1>
  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=Ignacio-Joaquin-Garcia&label=Profile%20views&color=0e75b6&style=flat" alt="IgnacioGarcia" /> 
-    <img src="https://img.shields.io/badge/Age-19-blue" alt="Age">
-    <img src="https://img.shields.io/badge/Focus-Front End%20-brightgreen" />
-    <img src="https://img.shields.io/badge/Lives-Argentina-success" />
+    <img src="https://komarev.com/ghpvc/?username=Ignacio-Joaquin-Garcia&label=Visitas%20perfil&color=0e75b6&style=flat" alt="IgnacioGarcia" /> 
+    <img src="https://img.shields.io/badge/Edad-19-blue" alt="Age">
+    <img src="https://img.shields.io/badge/Me enfoco en-Front End%20-brightgreen" />
+    <img src="https://img.shields.io/badge/Resido en-Argentina-success" />
 </p>
 <div align="center">
 
