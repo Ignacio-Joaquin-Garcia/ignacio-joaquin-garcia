@@ -25,7 +25,7 @@
       <img src="https://i.imgur.com/3Q4HADN.gif" width="300px" />
     </td>
     <td>
-       <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact&theme=radical&v=2" width="300px" />
+       <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact&theme=radical&v=5" width="300px" />
     </td>
   </tr>
 </table>
@@ -43,6 +43,9 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
 - 👨‍💻 🎓 Actualmente estoy estudiando la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
 - 🧠 He complementado mi formación académica con diversos cursos de **desarrollo web y diseño** en instituciones como **Coderhouse** y **TalentoTech**, donde desarrollé múltiples proyectos prácticos. Estos cursos incluyeron contenidos de **Diseño UX/UI**, **HTML**, **CSS**, **SCSS**, **JavaScript** y **React**.
 - 🗣️ Mi idioma nativo es el **español**. Poseo certificaciones de inglés **B1 y B2 otorgadas por AACI**, y actualmente me estoy preparando para rendir el examen **Cambridge First (FCE)**.
+
+**Mira mi Progeso actual en la Licenciatura de Sistemas (UNLa)**  
+👉 [Ver plan de estudios](./plan-de-estudios.pdf)
 
 ---
 
@@ -88,7 +91,6 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
     </td>
   </tr>
 </table>
-
 
 ---
 
