@@ -44,6 +44,9 @@ Hi! My name is **Ignacio Garcia**, and I am a **Front-End Developer** with a str
 - 🧠 I have completed several courses in **Web Development and Design** at institutions such as **Coderhouse** and **TalentoTech**, where I developed multiple practical projects. These courses covered topics such as **UX/UI Design**, **HTML**, **CSS**, **SCSS**, **JavaScript**, and **React**.
 - 🗣️ My native language is **Spanish**. I hold **B1 and B2 English certifications from AACI**, and I am currently preparing for the **Cambridge First Certificate in English (FCE)**.
 
+**See my current progress in the Bachelor's Degree in Information Systems at UNLa**  
+👉 [View study plan](./plan_estudios.pdf)
+
 ---
 
 <h3>💼 Technologies</h3>
@@ -94,7 +97,7 @@ Hi! My name is **Ignacio Garcia**, and I am a **Front-End Developer** with a str
 
 ## 📫 Where to find me
 
-- 💼 [Linkedin](www.linkedin.com/in/ignaciogarcia-webdeveloper)
+- 💼 [Linkedin](https://www.linkedin.com/in/ignaciogarcia-webdeveloper/)
 - ✉️ garciaignaciouni@gmail.com
 
 ---
