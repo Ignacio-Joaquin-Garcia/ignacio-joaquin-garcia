@@ -96,7 +96,7 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
 
 ## 📫 ¿Dónde encontrarme?
 
-- 💼 [Linkedin](www.linkedin.com/in/ignaciogarcia-webdeveloper)
+- 💼 [Linkedin](https://www.linkedin.com/in/ignaciogarcia-webdeveloper/)
 - ✉️ garciaignaciouni@gmail.com
 
 ---
