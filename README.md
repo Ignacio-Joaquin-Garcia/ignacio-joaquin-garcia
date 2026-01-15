@@ -77,6 +77,16 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
       <sub><b>Git</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="48px" alt="Lenguaje C" /><br/>
+      <sub><b>Lenguaje C</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://ai.thestempedia.com/wp-content/uploads/2017/06/Arduino-Logo.png" height="48px" alt="Arduino IDE" /><br/>
+      <sub><b>Arduino IDE</b></sub>
+    </td>
+  </tr>
 </table>
 
 
