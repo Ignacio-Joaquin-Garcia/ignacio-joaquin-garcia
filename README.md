@@ -25,10 +25,7 @@
       <img src="https://i.imgur.com/3Q4HADN.gif" width="300px" />
     </td>
     <td>
-      ## 📊 Lenguajes más usados
-
-  ![Top Langs](https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia)
-
+       <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact" width="300px" />
     </td>
   </tr>
 </table>
