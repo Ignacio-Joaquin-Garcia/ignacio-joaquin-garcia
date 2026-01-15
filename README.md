@@ -45,7 +45,7 @@ Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador FrontEnd** con foco en t
 - 🗣️ Mi idioma nativo es el **español**. Poseo certificaciones de inglés **B1 y B2 otorgadas por AACI**, y actualmente me estoy preparando para rendir el examen **Cambridge First (FCE)**.
 
 **Mira mi Progeso actual en la Licenciatura de Sistemas (UNLa)**  
-👉 [Ver plan de estudios](./plan-de-estudios.pdf)
+👉 [Ver plan de estudios](./plan_estudios.pdf)
 
 ---
 
