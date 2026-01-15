@@ -25,7 +25,7 @@
       <img src="https://i.imgur.com/3Q4HADN.gif" width="300px" />
     </td>
     <td>
-       <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact&theme=radical&v=1" width="300px" />
+       <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact&theme=radical&v=2" width="300px" />
     </td>
   </tr>
 </table>
