@@ -25,7 +25,7 @@
       <img src="https://i.imgur.com/3Q4HADN.gif" width="300px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=pie" />
+      <img src="https://github-readme-stats-git-master-ignacio-joaquin-garcias-projects.vercel.app/api/top-langs/?username=Ignacio-Joaquin-Garcia&layout=compact&theme=radical&v=2" width="300px" />
     </td>
   </tr>
 </table>
@@ -75,6 +75,16 @@ Hi! My name is **Ignacio Garcia**, and I am a **Front-End Developer** with a str
     <td align="center">
       <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="48px" alt="Git" /><br/>
       <sub><b>Git</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="48px" alt="Lenguaje C" /><br/>
+      <sub><b>C Language</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://ai.thestempedia.com/wp-content/uploads/2017/06/Arduino-Logo.png" height="48px" alt="Arduino IDE" /><br/>
+      <sub><b>Arduino IDE</b></sub>
     </td>
   </tr>
 </table>
