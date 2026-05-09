@@ -34,22 +34,23 @@
 
 ---
 
-## 🙋 Sobre mí
+## 🙋Sobre mí
 
-Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Sistemas** con foco en tecnologías web modernas.
+Hola, soy **Ignacio Garcia** — Desarrollador Web y estudiante de **Licenciatura en Sistemas** en la Universidad Nacional de Lanús (UNLa).
 
-- 👨‍💻 🎓 Actualmente estoy estudiando la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
-- 🧠 He complementado mi formación académica con diversos cursos de **desarrollo web y diseño** en instituciones como **Coderhouse** y **TalentoTech**, donde desarrollé múltiples proyectos prácticos. Estos cursos incluyeron contenidos de **Diseño UX/UI**, **HTML**, **CSS**, **SCSS**, **JavaScript** y **React**.
-- 🗣️ Mi idioma nativo es el **español**. Poseo certificaciones de inglés **B1 y B2 otorgadas por AACI**, y actualmente me estoy preparando para rendir el examen **Cambridge First (FCE)**.
+Complementé mi formación con cursos en **Coderhouse** y **TalentoTech**, donde trabajé con **HTML**, **CSS**, **SCSS**, **JavaScript**, **React** y **Diseño UX/UI**.
 
-**Mira mi Progeso actual en la Licenciatura de Sistemas (UNLa)**  
-👉 [Ver plan de estudios](./plan_estudios.pdf)
+**Formación**  
+Licenciatura en Sistemas — UNLa → [Ver plan de estudios](./plan_estudios.pdf)
+
+**Idiomas**  
+Español nativo · Inglés B2 (AACI + Cambridge FCE)
 
 ---
 
 ## 🛠️Tecnologias
 
-<h3>🎨 Frontend & Diseño</h3> 
+<h3>Frontend & Diseño</h3> 
 <table> 
     <tr> 
         <td align="center" width="96"> 
@@ -72,7 +73,7 @@ Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Siste
     </tr> 
 </table>  
 
-<h3>⚙️ Programación & Sistemas</h3> <table> 
+<h3>Programación & Sistemas</h3> <table> 
     <tr> 
         <td align="center" width="96"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" /> <br><sub><b>C</b></sub> 
@@ -89,7 +90,7 @@ Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Siste
     </tr> 
 </table> 
  
-<h3>🔌 Hardware & Creative Coding</h3> 
+<h3>Hardware & Creative Coding</h3> 
 <table> 
     <tr> 
         <td align="center" width="96"> 
@@ -101,7 +102,7 @@ Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Siste
     </tr> 
 </table> 
  
-<h3>🛠️ Herramientas</h3> 
+<h3>Herramientas</h3> 
 <table> 
     <tr> 
         <td align="center" width="96"> 
@@ -122,29 +123,29 @@ Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Siste
 
 ---
 
-### 🎮 Snake Game + Arduino
+### Snake Game + Arduino
 
 > Juego estilo Snake desarrollado en **Processing** con arquitectura orientada a objetos e integración con **Arduino** para control desde celular vía acelerómetro.
 
-**✨ Features**
+**Features**
 - Comunicación serial Arduino ↔ Processing
 - Sistema de estados del juego (INICIO, JUGANDO, PAUSADO, FINALIZADO)
 - Render completamente desacoplado de la lógica
 - Arquitectura modular basada en interfaces (`Renderable`, `InputProvider`)
 - Control desde dispositivo móvil via acelerómetro
 
-**🛠️ Stack**  
+**Stack**  
 `Processing` `Arduino` `Java` `POO`
 
 🔗 [Ver Repositorio](https://github.com/Ignacio-Joaquin-Garcia/Processing-Proyecto-SnakeGame)
 
 ---
 
-### 🛒 Eter3D — E-Commerce
+### Eter3D — E-Commerce
 
 > E-Commerce completo desarrollado para el emprendimiento **Eter3D**, con panel administrativo, autenticación de usuarios y carrito funcional.
 
-**✨ Features**
+**Features**
 - Diseño UI/UX en Figma
 - Login & Register con autenticación
 - Base de datos en Firebase (tiempo real)
@@ -152,7 +153,7 @@ Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Siste
 - Carrito funcional + generación de tickets
 - Routing dinámico con React Router
 
-**🛠️ Stack**  
+**Stack**  
 `React` `React Router` `Firebase` `SCSS` `Figma`
 
 🔗 [Ver Repositorio](https://github.com/Ignacio-Joaquin-Garcia/proyecto-ReactJs-Coderhouse-Eter3d-Eccomerce)
