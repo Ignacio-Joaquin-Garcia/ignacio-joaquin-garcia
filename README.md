@@ -36,7 +36,7 @@
 
 ## 🙋 Sobre mí
 
-Hola! Me llamo **Ignacio Garcia** y soy **Desarrollador Web y Estudiante de Sistemas** con foco en tecnologías web modernas.
+Hola! Me llamo **Ignacio Garcia**, soy **Desarrollador Web y Estudiante de Sistemas** con foco en tecnologías web modernas.
 
 - 👨‍💻 🎓 Actualmente estoy estudiando la **Licenciatura en Sistemas** en la **Universidad Nacional de Lanús (UNLa)**.
 - 🧠 He complementado mi formación académica con diversos cursos de **desarrollo web y diseño** en instituciones como **Coderhouse** y **TalentoTech**, donde desarrollé múltiples proyectos prácticos. Estos cursos incluyeron contenidos de **Diseño UX/UI**, **HTML**, **CSS**, **SCSS**, **JavaScript** y **React**.
